@@ -354,7 +354,6 @@ public class SpotifyRepository {
         else
             return artist1.getName();
     }
-    }
 
     public String mostPopularSong() {
         int max = 0;
